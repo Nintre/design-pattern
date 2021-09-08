@@ -1,2 +1,0 @@
-E:\C++train\abstract pattern\Debug\abstract_factory.exe
-E:\C++train\abstract pattern\Debug\abstract_factory.pdb
