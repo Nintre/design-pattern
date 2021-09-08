@@ -1,2 +1,0 @@
-E:\C++train\STL\Debug\Simple factory model.exe
-E:\C++train\STL\Debug\Simple factory model.pdb
